@@ -1,0 +1,1 @@
+[["Variables","/go/pkg-journald.html#variables",1,1],["Functions","#functions",1,1],["NewJournalDWriter","#func-NewJournalDWriter",1,1],["var SendFunc","#var-SendFunc",3,1],["func NewJournalDWriter() io.Writer","#func-NewJournalDWriter",4,1],["Example NewJournalDWriter","#func-NewJournalDWriter",5,1],["log","/go/pkg-log.html",0,1],["Variables","#variables",1,1]]

@@ -1,0 +1,1 @@
+[["diode/internal/diodes","/go/pkg-diode-internal-diodes.html",0,1],["Functions","#functions",1,1],["NewManyToOne","#func-NewManyToOne",1,1],["NewOneToOne","#func-NewOneToOne",1,1],["NewPoller","#func-NewPoller",1,1],["NewWaiter","#func-NewWaiter",1,1],["WithPollingContext","#func-WithPollingContext",1,1],["WithPollingInterval","#func-WithPollingInterval",1,1]]

@@ -1,0 +1,140 @@
+{
+  "/introduction.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://urelkdubdqwr.github.io/zerolog/introduction.html>; rel=\"canonical\", <https://urelkdubdqwr.github.io/zerolog/llms.txt>; rel=\"describedby\""
+  },
+  "/quickstart.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://urelkdubdqwr.github.io/zerolog/quickstart.html>; rel=\"canonical\", <https://urelkdubdqwr.github.io/zerolog/llms.txt>; rel=\"describedby\""
+  },
+  "/context-and-hooks.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://urelkdubdqwr.github.io/zerolog/context-and-hooks.html>; rel=\"canonical\", <https://urelkdubdqwr.github.io/zerolog/llms.txt>; rel=\"describedby\""
+  },
+  "/outputs-and-sinks.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://urelkdubdqwr.github.io/zerolog/outputs-and-sinks.html>; rel=\"canonical\", <https://urelkdubdqwr.github.io/zerolog/llms.txt>; rel=\"describedby\""
+  },
+  "/go/package-root.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://urelkdubdqwr.github.io/zerolog/go/package-root.html>; rel=\"canonical\", <https://urelkdubdqwr.github.io/zerolog/llms.txt>; rel=\"describedby\""
+  },
+  "/go/pkg-cmd-prettylog.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://urelkdubdqwr.github.io/zerolog/go/pkg-cmd-prettylog.html>; rel=\"canonical\", <https://urelkdubdqwr.github.io/zerolog/llms.txt>; rel=\"describedby\""
+  },
+  "/go/pkg-diode.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://urelkdubdqwr.github.io/zerolog/go/pkg-diode.html>; rel=\"canonical\", <https://urelkdubdqwr.github.io/zerolog/llms.txt>; rel=\"describedby\""
+  },
+  "/go/pkg-diode-internal-diodes.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://urelkdubdqwr.github.io/zerolog/go/pkg-diode-internal-diodes.html>; rel=\"canonical\", <https://urelkdubdqwr.github.io/zerolog/llms.txt>; rel=\"describedby\""
+  },
+  "/go/pkg-hlog.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://urelkdubdqwr.github.io/zerolog/go/pkg-hlog.html>; rel=\"canonical\", <https://urelkdubdqwr.github.io/zerolog/llms.txt>; rel=\"describedby\""
+  },
+  "/go/pkg-hlog-internal-mutil.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://urelkdubdqwr.github.io/zerolog/go/pkg-hlog-internal-mutil.html>; rel=\"canonical\", <https://urelkdubdqwr.github.io/zerolog/llms.txt>; rel=\"describedby\""
+  },
+  "/go/pkg-internal.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://urelkdubdqwr.github.io/zerolog/go/pkg-internal.html>; rel=\"canonical\", <https://urelkdubdqwr.github.io/zerolog/llms.txt>; rel=\"describedby\""
+  },
+  "/go/pkg-internal-cbor.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://urelkdubdqwr.github.io/zerolog/go/pkg-internal-cbor.html>; rel=\"canonical\", <https://urelkdubdqwr.github.io/zerolog/llms.txt>; rel=\"describedby\""
+  },
+  "/go/pkg-internal-cbor-examples.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://urelkdubdqwr.github.io/zerolog/go/pkg-internal-cbor-examples.html>; rel=\"canonical\", <https://urelkdubdqwr.github.io/zerolog/llms.txt>; rel=\"describedby\""
+  },
+  "/go/pkg-internal-json.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://urelkdubdqwr.github.io/zerolog/go/pkg-internal-json.html>; rel=\"canonical\", <https://urelkdubdqwr.github.io/zerolog/llms.txt>; rel=\"describedby\""
+  },
+  "/go/pkg-journald.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://urelkdubdqwr.github.io/zerolog/go/pkg-journald.html>; rel=\"canonical\", <https://urelkdubdqwr.github.io/zerolog/llms.txt>; rel=\"describedby\""
+  },
+  "/go/pkg-log.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://urelkdubdqwr.github.io/zerolog/go/pkg-log.html>; rel=\"canonical\", <https://urelkdubdqwr.github.io/zerolog/llms.txt>; rel=\"describedby\""
+  },
+  "/go/pkg-pkgerrors.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://urelkdubdqwr.github.io/zerolog/go/pkg-pkgerrors.html>; rel=\"canonical\", <https://urelkdubdqwr.github.io/zerolog/llms.txt>; rel=\"describedby\""
+  },
+  "/go.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://urelkdubdqwr.github.io/zerolog/go.html>; rel=\"canonical\", <https://urelkdubdqwr.github.io/zerolog/llms.txt>; rel=\"describedby\""
+  },
+  "/documents.json": {
+    "Content-Type": "application/json; charset=utf-8"
+  },
+  "/llms.txt": {
+    "Content-Type": "text/plain; charset=utf-8"
+  },
+  "/llms-full.txt": {
+    "Content-Type": "text/plain; charset=utf-8"
+  },
+  "/introduction.html": {
+    "Link": "<https://urelkdubdqwr.github.io/zerolog/introduction.md>; rel=\"alternate\"; type=\"text/markdown\", <https://urelkdubdqwr.github.io/zerolog/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/quickstart.html": {
+    "Link": "<https://urelkdubdqwr.github.io/zerolog/quickstart.md>; rel=\"alternate\"; type=\"text/markdown\", <https://urelkdubdqwr.github.io/zerolog/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/context-and-hooks.html": {
+    "Link": "<https://urelkdubdqwr.github.io/zerolog/context-and-hooks.md>; rel=\"alternate\"; type=\"text/markdown\", <https://urelkdubdqwr.github.io/zerolog/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/outputs-and-sinks.html": {
+    "Link": "<https://urelkdubdqwr.github.io/zerolog/outputs-and-sinks.md>; rel=\"alternate\"; type=\"text/markdown\", <https://urelkdubdqwr.github.io/zerolog/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/go/package-root.html": {
+    "Link": "<https://urelkdubdqwr.github.io/zerolog/go/package-root.md>; rel=\"alternate\"; type=\"text/markdown\", <https://urelkdubdqwr.github.io/zerolog/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/go/pkg-cmd-prettylog.html": {
+    "Link": "<https://urelkdubdqwr.github.io/zerolog/go/pkg-cmd-prettylog.md>; rel=\"alternate\"; type=\"text/markdown\", <https://urelkdubdqwr.github.io/zerolog/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/go/pkg-diode.html": {
+    "Link": "<https://urelkdubdqwr.github.io/zerolog/go/pkg-diode.md>; rel=\"alternate\"; type=\"text/markdown\", <https://urelkdubdqwr.github.io/zerolog/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/go/pkg-diode-internal-diodes.html": {
+    "Link": "<https://urelkdubdqwr.github.io/zerolog/go/pkg-diode-internal-diodes.md>; rel=\"alternate\"; type=\"text/markdown\", <https://urelkdubdqwr.github.io/zerolog/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/go/pkg-hlog.html": {
+    "Link": "<https://urelkdubdqwr.github.io/zerolog/go/pkg-hlog.md>; rel=\"alternate\"; type=\"text/markdown\", <https://urelkdubdqwr.github.io/zerolog/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/go/pkg-hlog-internal-mutil.html": {
+    "Link": "<https://urelkdubdqwr.github.io/zerolog/go/pkg-hlog-internal-mutil.md>; rel=\"alternate\"; type=\"text/markdown\", <https://urelkdubdqwr.github.io/zerolog/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/go/pkg-internal.html": {
+    "Link": "<https://urelkdubdqwr.github.io/zerolog/go/pkg-internal.md>; rel=\"alternate\"; type=\"text/markdown\", <https://urelkdubdqwr.github.io/zerolog/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/go/pkg-internal-cbor.html": {
+    "Link": "<https://urelkdubdqwr.github.io/zerolog/go/pkg-internal-cbor.md>; rel=\"alternate\"; type=\"text/markdown\", <https://urelkdubdqwr.github.io/zerolog/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/go/pkg-internal-cbor-examples.html": {
+    "Link": "<https://urelkdubdqwr.github.io/zerolog/go/pkg-internal-cbor-examples.md>; rel=\"alternate\"; type=\"text/markdown\", <https://urelkdubdqwr.github.io/zerolog/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/go/pkg-internal-json.html": {
+    "Link": "<https://urelkdubdqwr.github.io/zerolog/go/pkg-internal-json.md>; rel=\"alternate\"; type=\"text/markdown\", <https://urelkdubdqwr.github.io/zerolog/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/go/pkg-journald.html": {
+    "Link": "<https://urelkdubdqwr.github.io/zerolog/go/pkg-journald.md>; rel=\"alternate\"; type=\"text/markdown\", <https://urelkdubdqwr.github.io/zerolog/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/go/pkg-log.html": {
+    "Link": "<https://urelkdubdqwr.github.io/zerolog/go/pkg-log.md>; rel=\"alternate\"; type=\"text/markdown\", <https://urelkdubdqwr.github.io/zerolog/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/go/pkg-pkgerrors.html": {
+    "Link": "<https://urelkdubdqwr.github.io/zerolog/go/pkg-pkgerrors.md>; rel=\"alternate\"; type=\"text/markdown\", <https://urelkdubdqwr.github.io/zerolog/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/go.html": {
+    "Link": "<https://urelkdubdqwr.github.io/zerolog/go.md>; rel=\"alternate\"; type=\"text/markdown\", <https://urelkdubdqwr.github.io/zerolog/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/404.html": {
+    "Link": "<https://urelkdubdqwr.github.io/zerolog/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  }
+}

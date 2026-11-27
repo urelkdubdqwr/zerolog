@@ -1,0 +1,1 @@
+[["Logger","/go/package-root.html#type-Logger",1,1],["RandomSampler","#type-RandomSampler",1,1],["Sampler","#type-Sampler",1,1],["SlogHandler","#type-SlogHandler",1,1],["SyslogWriter","#type-SyslogWriter",1,1],["TestWriter","#type-TestWriter",1,1],["TestingLog","#type-TestingLog",1,1],["TriggerLevelWriter","#type-TriggerLevelWriter",1,1]]

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://urelkdubdqwr.github.io/zerolog/introduction.html</loc></url>
+  <url><loc>https://urelkdubdqwr.github.io/zerolog/quickstart.html</loc></url>
+  <url><loc>https://urelkdubdqwr.github.io/zerolog/context-and-hooks.html</loc></url>
+  <url><loc>https://urelkdubdqwr.github.io/zerolog/outputs-and-sinks.html</loc></url>
+  <url><loc>https://urelkdubdqwr.github.io/zerolog/go/package-root.html</loc></url>
+  <url><loc>https://urelkdubdqwr.github.io/zerolog/go/pkg-cmd-prettylog.html</loc></url>
+  <url><loc>https://urelkdubdqwr.github.io/zerolog/go/pkg-diode.html</loc></url>
+  <url><loc>https://urelkdubdqwr.github.io/zerolog/go/pkg-diode-internal-diodes.html</loc></url>
+  <url><loc>https://urelkdubdqwr.github.io/zerolog/go/pkg-hlog.html</loc></url>
+  <url><loc>https://urelkdubdqwr.github.io/zerolog/go/pkg-hlog-internal-mutil.html</loc></url>
+  <url><loc>https://urelkdubdqwr.github.io/zerolog/go/pkg-internal.html</loc></url>
+  <url><loc>https://urelkdubdqwr.github.io/zerolog/go/pkg-internal-cbor.html</loc></url>
+  <url><loc>https://urelkdubdqwr.github.io/zerolog/go/pkg-internal-cbor-examples.html</loc></url>
+  <url><loc>https://urelkdubdqwr.github.io/zerolog/go/pkg-internal-json.html</loc></url>
+  <url><loc>https://urelkdubdqwr.github.io/zerolog/go/pkg-journald.html</loc></url>
+  <url><loc>https://urelkdubdqwr.github.io/zerolog/go/pkg-log.html</loc></url>
+  <url><loc>https://urelkdubdqwr.github.io/zerolog/go/pkg-pkgerrors.html</loc></url>
+  <url><loc>https://urelkdubdqwr.github.io/zerolog/go.html</loc></url>
+</urlset>
