@@ -1,0 +1,25 @@
+# zerolog
+
+## Guides
+
+- [Introduction](https://urelkdubdqwr.github.io/zerolog/introduction.md): What zerolog is, why its API avoids allocations, and where these docs come from.
+- [Quickstart](https://urelkdubdqwr.github.io/zerolog/quickstart.md): Install zerolog and emit your first structured JSON log line.
+- [Context and hooks](https://urelkdubdqwr.github.io/zerolog/context-and-hooks.md): Request-scoped loggers, context.Context integration and hooks in zerolog.
+- [Outputs and sinks](https://urelkdubdqwr.github.io/zerolog/outputs-and-sinks.md): Console writing, non-blocking writers, CBOR encoding and sampling.
+
+## Go API
+
+- [github.com/rs/zerolog](https://urelkdubdqwr.github.io/zerolog/go/package-root.md): Package zerolog provides a lightweight logging library dedicated to JSON logging.
+- [cmd/prettylog](https://urelkdubdqwr.github.io/zerolog/go/pkg-cmd-prettylog.md): github.com/rs/zerolog/cmd/prettylog
+- [diode](https://urelkdubdqwr.github.io/zerolog/go/pkg-diode.md): Package diode provides a thread-safe, lock-free, non-blocking io.Writer wrapper.
+- [diode/internal/diodes](https://urelkdubdqwr.github.io/zerolog/go/pkg-diode-internal-diodes.md): github.com/rs/zerolog/diode/internal/diodes
+- [hlog](https://urelkdubdqwr.github.io/zerolog/go/pkg-hlog.md): Package hlog provides a set of http.Handler helpers for zerolog.
+- [hlog/internal/mutil](https://urelkdubdqwr.github.io/zerolog/go/pkg-hlog-internal-mutil.md): Package mutil contains various functions that are helpful when writing http middleware.
+- [internal](https://urelkdubdqwr.github.io/zerolog/go/pkg-internal.md): github.com/rs/zerolog/internal
+- [internal/cbor](https://urelkdubdqwr.github.io/zerolog/go/pkg-internal-cbor.md): Package cbor provides primitives for storing different data in the CBOR (binary) format.
+- [internal/cbor/examples](https://urelkdubdqwr.github.io/zerolog/go/pkg-internal-cbor-examples.md): github.com/rs/zerolog/internal/cbor/examples
+- [internal/json](https://urelkdubdqwr.github.io/zerolog/go/pkg-internal-json.md): github.com/rs/zerolog/internal/json
+- [journald](https://urelkdubdqwr.github.io/zerolog/go/pkg-journald.md): github.com/rs/zerolog/journald
+- [log](https://urelkdubdqwr.github.io/zerolog/go/pkg-log.md): Package log provides a global logger for zerolog.
+- [pkgerrors](https://urelkdubdqwr.github.io/zerolog/go/pkg-pkgerrors.md): github.com/rs/zerolog/pkgerrors
+- [Go API](https://urelkdubdqwr.github.io/zerolog/go.md): Go API for github.com/rs/zerolog across 13 packages.

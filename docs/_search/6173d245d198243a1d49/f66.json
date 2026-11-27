@@ -1,0 +1,1 @@
+[["Functions","/go/pkg-hlog-internal-mutil.html#functions",1,1],["WrapWriter","#func-WrapWriter",1,1],["Types","#types",1,1],["WriterProxy","#type-WriterProxy",1,1],["func WrapWriter(w http.ResponseWriter) WriterProxy","#func-WrapWriter",4,1],["type WriterProxy","#type-WriterProxy",6,1],["internal","/go/pkg-internal.html",0,1],["Variables","#variables",1,1]]

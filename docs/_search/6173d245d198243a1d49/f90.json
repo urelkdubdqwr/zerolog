@@ -1,0 +1,1 @@
+[["Warn","/go/pkg-log.html#func-Warn",1,1],["With","#func-With",1,1],["WithLevel","#func-WithLevel",1,1],["Examples","#examples",1,1],["var Logger","#var-Logger",3,1],["func Ctx(ctx context.Context) *zerolog.Logger","#func-Ctx",4,1],["Example Ctx","#func-Ctx",5,1],["func Debug() *zerolog.Event","#func-Debug",4,1]]

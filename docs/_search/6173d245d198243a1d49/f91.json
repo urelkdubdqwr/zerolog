@@ -1,0 +1,1 @@
+[["Example Debug","/go/pkg-log.html#func-Debug",5,1],["func Err(err error) *zerolog.Event","#func-Err",4,1],["Example Err","#func-Err",5,1],["func Error() *zerolog.Event","#func-Error",4,1],["Example Error","#func-Error",5,1],["func Fatal() *zerolog.Event","#func-Fatal",4,1],["Example Fatal","#func-Fatal",5,1],["func Hook(h zerolog.Hook) zerolog.Logger","#func-Hook",4,1]]
